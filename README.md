@@ -1,5 +1,6 @@
 
- ![MasterHead](https://resize.imagekit.co/1oNSUkAhdBqHelwGGIyyKFw6HGFp11FiU_ALCiC3h3I/h:300/dpr:2/plain/s3://betalist-production/y7fjgc7xw89f15wycsalm15k3p32) 
+ <!-- ![MasterHead](https://resize.imagekit.co/1oNSUkAhdBqHelwGGIyyKFw6HGFp11FiU_ALCiC3h3I/h:300/dpr:2/plain/s3://betalist-production/y7fjgc7xw89f15wycsalm15k3p32) -->
+ ![MasterHead](./Header.png)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=500&size=36&duration=6500&pause=1500&color=F7F7F7&center=true&random=false&width=1000&height=70&lines=Hey+there!%F0%9F%98%8CI'm+Wimukthi+Madushan!+%F0%9F%8C%9F" alt="Typing SVG" /></a>
 
